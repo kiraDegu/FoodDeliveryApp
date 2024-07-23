@@ -17,3 +17,87 @@ Java: 21<br />
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+<picture>
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/2.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/2.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/3.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/3.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/4.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/4.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/5.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/5.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/6.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/6.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/7.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/7.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/8.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/8.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
