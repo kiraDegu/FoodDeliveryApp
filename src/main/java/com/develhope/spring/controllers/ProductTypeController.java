@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.net.URI;
 
 @RestController
-@RequestMapping("api/v1/productTypes")
+@RequestMapping("api/v1/product_types")
 public class ProductTypeController {
 
     private final ProductTypeService productTypeService;

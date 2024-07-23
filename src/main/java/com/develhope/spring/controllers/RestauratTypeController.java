@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/restaurantType")
+@RequestMapping("/restaurant_types")
 public class RestauratTypeController {
 
     @Autowired

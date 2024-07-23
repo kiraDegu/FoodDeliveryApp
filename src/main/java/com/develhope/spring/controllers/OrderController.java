@@ -13,7 +13,7 @@ import java.net.URI;
 import java.time.LocalDateTime;
 
 @RestController
-@RequestMapping("api/v1/Orders")
+@RequestMapping("api/v1/orders")
 public class OrderController {
 
     private final OrderService orderService;

@@ -11,7 +11,7 @@ import java.net.URI;
 import java.time.LocalDate;
 
 @RestController
-@RequestMapping("api/v1/userDetails")
+@RequestMapping("api/v1/user_details")
 public class UserDetailsController {
 
     private final UserDetailsService userDetailsService;
