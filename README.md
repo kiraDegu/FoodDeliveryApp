@@ -15,7 +15,7 @@ FE si presenta quindi come una valida alternativa ai più popolari servizi di fo
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-Il team è formato da Chiara De Guglielmo (team leader), Matteo Solinas, Davide Di Leo e Ivan Frangipani.
+Il team che ha lavorato a questo progetto è formato da Chiara De Guglielmo (team leader), Matteo Solinas, Davide Di Leo e Ivan Frangipani.
 
 <picture>
   <source
