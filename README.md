@@ -32,6 +32,18 @@ Java: 21<br />
 
 <picture>
   <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/3.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/3.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<picture>
+  <source
     srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/7.png"
     media="(prefers-color-scheme: dark)"
   />
@@ -55,17 +67,7 @@ Java: 21<br />
 </picture>
 
 
-<picture>
-  <source
-    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/3.png"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github.com/kiraDegu/FoodDeliveryApp/blob/dev/README-imgs/3.png"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
 
 <picture>
   <source
